@@ -1,1 +1,1 @@
-this is my readme 0x02-shell_redirections project
+this is my reame for 0x02-shell_redirections
